@@ -1,1 +1,1 @@
-# school-management
+# Institute-management
